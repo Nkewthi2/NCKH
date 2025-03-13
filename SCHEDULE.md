@@ -1,7 +1,7 @@
 # LẬP KẾ HOẠCH DỰ ÁN
 
 ## 1. Tên Đề Tài  
-[Tên đề tài của dự án]  
+HSQformer Ultrasound HCC Screening Project
 
 ## 2. Thành Viên & Thông Tin Liên Hệ  
 | STT | Họ và Tên            | Vai Trò      | Email                          | SĐT        |
