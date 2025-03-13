@@ -22,3 +22,5 @@
 | 6         | Viết phần thảo luận & kết luận                    | 12/04/2025        | 18/04/2025         | Tổng kết tiến độ vào thứ 5 tuần 6         |
 | 7         | Kiểm tra, chỉnh sửa & chuẩn bị nộp bài            | 19/04/2025        | 25/04/2025         | Tổng kết tiến độ vào thứ 5 tuần 7         |
 | 8         | Hoàn tất & nộp bài                               | 26/04/2025        | 02/05/2025         | Tổng kết dự án vào thứ 5 tuần 8           |
+
+[schedule.xlsx (kế hoạch)](./schedule.xlsx)
