@@ -6,7 +6,7 @@
 ## 2. Thành Viên & Thông Tin Liên Hệ  
 | STT | Họ và Tên            | Vai Trò      | Email                          | SĐT        |
 |:----|:---------------------|--------------|--------------------------------|:-----------|
-| 1   | Cao Tấn Đạt          | Trưởng nhóm  |                                |            |
+| 1   | Cao Tấn Đạt          | Trưởng nhóm  | datcaotan117@gmail.com         | 0394660908 |
 | 2   | Lê Nguyễn Anh Đức    | Thành viên   | lnanhduc12@gmail.com           | Không có   |
 | 3   | Nguyễn Trọng Đạt     | Thành viên   | nguyentrongdat181020@gmail.com | 0896445421 |
 
