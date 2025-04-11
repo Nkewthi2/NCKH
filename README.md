@@ -1,4 +1,9 @@
 # Project Proposal
+## Thành viên tham gia
+
+- **Nguyễn Trọng Đạt** – 3122410075
+- **Lê Nguyễn Anh Đức** – 3122410087
+- **Cao Tấn Đạt** – 3122410069
 
 ## Title: Phân loại tiếng người - Tiền đề giao tiếp với AI
 
@@ -55,11 +60,11 @@ Dự án này hướng đến việc xây dựng một mô hình học máy sử
 
 | Giai đoạn | Nội dung                              | Thời gian     |
 |----------|----------------------------------------|---------------|
-| 1        | Chuẩn bị và khảo sát                   | 1-2 tháng     |
-| 2        | Thu thập và tiền xử lý dữ liệu         | 1 tháng       |
-| 3        | Xây dựng và huấn luyện mô hình AI      | 2 tháng       |
-| 4        | Đánh giá và tối ưu                     | 2 tháng       |
-| 5        | Phân tích kết quả và viết báo cáo      | 1-2 tháng     |
+| 1        | Chuẩn bị và khảo sát                   | 1 tuần     |
+| 2        | Thu thập và tiền xử lý dữ liệu         | 0.5 tuần       |
+| 3        | Xây dựng và huấn luyện mô hình AI      | 1 tuần       |
+| 4        | Đánh giá và tối ưu                     | 1 tuần       |
+| 5        | Phân tích kết quả và viết báo cáo      | 2 tuần     |
 
 ---
 
